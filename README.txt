@@ -1,5 +1,3 @@
-README
-------
+Trabalho de Conclusão de Curso 1 da UTFPR, câmpus Cornélio Procópio.
 
-** Recomendamos o uso do exemplo contido neste diretório para criação do
-seu trabalho.
+Criado utilizando a plataforma ShareLatex a partir deste modelo: https://pt.sharelatex.com/templates/thesis/utfpr-thesis
